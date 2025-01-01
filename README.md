@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PandaDev0069
-- 👀 I’m interested in learning new cooding and machine learning
+- 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently learning pythom
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
