@@ -4,7 +4,6 @@
 I'm an aspiring developer passionate about AI, Machine Learning, and game development. I'm currently learning Python and exploring AI concepts through hands-on projects. My goal is to build smarter AI systems, starting with a Tic-Tac-Toe AI using the Minimax algorithm.
 
 ### 🎯 What I'm Working On
-- Implementing AI for a Tic-Tac-Toe game in Python
 - Understanding and applying the Minimax algorithm
 - Exploring project-based learning to deepen my knowledge of AI
 
