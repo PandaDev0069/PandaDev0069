@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @PandaDev0069
 
 ### 🚀 About Me
-I'm an aspiring developer passionate about AI, Machine Learning, and game development. My goal is to build smarter AI systems.
+I'm an aspiring developer passionate about AI, Machine Learning. My goal is to build smarter AI systems.
 
 
 ### ⚡ Fun Fact
