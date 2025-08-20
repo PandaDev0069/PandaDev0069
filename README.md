@@ -1,6 +1,49 @@
-# 👋 Hi, I'm @PandaDev0069
+# 👋 Hi, I'm Panda (@PandaDev0069)
 
-<!---
-PandaDev0069/PandaDev0069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Student | 💻 Learning Developer | 🌱 Always curious
+
+---
+
+## 🌟 About Me
+- 🏫 University student in Japan, studying **IT, AI, and system design**  
+- 💡 Passionate about **web development**, **AI projects**, and **interactive apps**  
+- 🎨 Also enjoy exploring **UI/UX design**, **media tech**, and **sound engineering**  
+- 🚀 Currently learning how to **build scalable apps** and improve my **coding practices**  
+
+---
+
+## 🔧 Tech I Use
+- **Frontend:** React, Next.js, TypeScript, TailwindCSS  
+- **Backend:** Node.js, Express, WebSockets  
+- **Database & Auth:** Supabase, PostgreSQL  
+- **Other:** Python, Git/GitHub, basic AI/ML experiments  
+
+---
+
+## 📌 Projects & Work
+- 🌐 Experimenting with **web apps** and **learning platforms**  
+- 🧪 Small **AI/ML side projects** (pathfinding, recognition models, etc.)  
+- 🎮 Built a lightweight quiz app as a learning project  
+
+---
+
+## 🌱 Currently Learning
+- 🛠 **System design basics**  
+- 🔐 **Database optimization & security**  
+- 🎨 **UI/UX patterns**  
+
+---
+
+## 📊 GitHub Stats
+![Panda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PandaDev0069&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDev0069&layout=compact&theme=radical)
+
+---
+
+## 🤝 Connect with Me
+- 💼 [GitHub](https://github.com/PandaDev0069)  
+- 🌐 Portfolio site (coming soon...)  
+
+---
+
+✨ _“Learning step by step, building one project at a time.”_
