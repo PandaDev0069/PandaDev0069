@@ -42,6 +42,7 @@
 ![Panda's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PandaDev0069&theme=radical)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PandaDev0069&theme=radical)
 ![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PandaDev0069&theme=radical)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PandaDev0069)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
