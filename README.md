@@ -48,7 +48,7 @@
 
 ## 🤝 Connect with Me
 - 💼 [GitHub](https://github.com/PandaDev0069)  
-- 🌐 Portfolio site (coming soon...)  
+- 🌐 [Portfolio](https://pandadev0069.github.io/PandaDev0069/)
 
 ---
 
