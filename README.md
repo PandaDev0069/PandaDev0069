@@ -42,7 +42,6 @@
 ![Panda's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PandaDev0069&theme=radical)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PandaDev0069&theme=radical)
 ![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PandaDev0069&theme=radical)
-![GitHub Achievements](https://github-profile-achievements.vercel.app/api?username=PandaDev0069)
 
 
 ---
