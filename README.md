@@ -39,7 +39,11 @@
 ![Panda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PandaDev0069&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDev0069&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=PandaDev0069&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=PandaDev0069&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Panda's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PandaDev0069&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PandaDev0069&theme=radical)
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PandaDev0069&theme=radical)
+![GitHub Achievements](https://github-profile-achievements.vercel.app/api?username=PandaDev0069)
+
 
 ---
 
