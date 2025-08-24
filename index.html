@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Panda's Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f4f9;
+      color: #333;
+    }
+
+    header {
+      background: #6FD6FF;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+
+    header p {
+      margin-top: 0.5rem;
+      font-size: 1.2rem;
+    }
+
+    nav {
+      background: #333;
+      padding: 0.5rem;
+      text-align: center;
+    }
+
+    nav a {
+      color: #fff;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    .projects {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+    }
+
+    .card {
+      background: white;
+      border-radius: 8px;
+      padding: 1rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      transition: transform 0.2s;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+      background: #eee;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Panda 🐼</h1>
+    <p>Student Developer | Building Cool Projects</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>👋 About Me</h2>
+    <p>
+      Hi! I'm Panda, a student developer passionate about coding, design, and building innovative apps.
+      I love working with modern tech stacks, experimenting with AI, and creating projects like my quiz app <b>TUIZ</b>.
+    </p>
+  </section>
+
+  <section id="projects">
+    <h2>🚀 Projects</h2>
+    <div class="projects">
+      <div class="card">
+        <h3>TUIZ</h3>
+        <p>A Kahoot-like quiz app for real-time interactive games.</p>
+      </div>
+      <div class="card">
+        <h3>UniSmart</h3>
+        <p>A student productivity hub with calendar, tasks, notes, and more.</p>
+      </div>
+      <div class="card">
+        <h3>Portfolio</h3>
+        <p>This very page you're looking at, built with HTML & CSS 🎨</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>📩 Contact</h2>
+    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+    <p>GitHub: <a href="https://github.com/PandaDev0069" target="_blank">@PandaDev0069</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Panda | Made with ❤️ and HTML & CSS</p>
+  </footer>
+</body>
+</html>
