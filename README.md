@@ -39,9 +39,6 @@
 ![PandaDev0069's Stats](https://github-readme-stats.vercel.app/api?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![PandaDev0069's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ![PandaDev0069's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PandaDev0069&theme=tokyonight&hide_border=true)  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PandaDev0069&theme=radical)
-![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PandaDev0069&theme=radical)
-
 
 ---
 
