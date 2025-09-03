@@ -12,14 +12,6 @@
 
 ---
 
-## 🔧 Tech I Use
-- **Frontend:** React, Next.js, TypeScript, TailwindCSS  
-- **Backend:** Node.js, Express, WebSockets  
-- **Database & Auth:** Supabase, PostgreSQL  
-- **Other:** Python, Git/GitHub, basic AI/ML experiments  
-
----
-
 ## 📌 Projects & Work
 - 🌐 Experimenting with **web apps** and **learning platforms**  
 - 🧪 Small **AI/ML side projects** (pathfinding, recognition models, etc.)  
