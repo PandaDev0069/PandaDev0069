@@ -16,8 +16,8 @@
 
 - 🏫 University student in Japan, studying **IT, AI, and system design**
 - 🔥 Passionate about **Web Development**, **AI Projects**, and **Interactive Apps**
-- 🎨 Love exploring **UI/UX Design**, **Media Tech**, and **Sound Engineering**
-- 🚀 Currently mastering **scalable app development** and **best coding practices**
+- 🎯 Currently focused on building **TUIZ** - an interactive quiz platform with modern tech stack
+- 🚀 Working with **TypeScript**, **Next.js**, **Node.js**, and **Express.js**
 - 💡 Always eager to collaborate on **innovative projects**
 - 🌱 Constantly learning and growing in the tech world
 
@@ -30,23 +30,23 @@
 <div align="center">
   
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -83,9 +83,22 @@
 <a href="https://pandadev0069.github.io/PandaDev0069/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
 </a>
-<a href="mailto:contact@pandadev.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href="https://github.com/PandaDev0069" target="_blank">
+<img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 **Current Focus**
+
+<div align="center">
+
+🔥 **Building TUIZ** - A real-time interactive quiz platform that's like Kahoot but better!  
+🚀 **Tech Stack:** TypeScript, Next.js, Node.js, Express.js  
+⭐ **Progress:** Main repo with 3 stars, separate frontend and backend repositories  
+💡 **Goal:** Create the best quiz experience for educators and students  
 
 </div>
 
@@ -95,12 +108,12 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎯 **TUIZ** | Interactive Quiz App (Kahoot-like) | `React` `Node.js` `Socket.io` |
-| 🎓 **UniSmart** | Student Productivity Platform | `Vue.js` `Express` `MongoDB` |
-| 🤖 **AI Pathfinder** | Intelligent Route Planning System | `Python` `TensorFlow` `Flask` |
-| 🎨 **Portfolio** | Personal Showcase Website | `HTML5` `CSS3` `JavaScript` |
+| Project | Description | Tech Stack | Repository | Stars |
+|---------|-------------|------------|------------|-------|
+| 🎯 **[TUIZ](https://github.com/PandaDev0069/TUIZ)** | Interactive Quiz App (Kahoot-like) | `JavaScript` `Node.js` `Socket.io` | [Main Repo](https://github.com/PandaDev0069/TUIZ) | ⭐ 3 |
+| 🎯 **[TUIZ Frontend](https://github.com/PandaDev0069/tuiz-frontend)** | Modern Frontend for TUIZ | `TypeScript` `Next.js` `Vercel` | [Frontend](https://github.com/PandaDev0069/tuiz-frontend) | ⭐ 1 |
+| 🎯 **[TUIZ Backend](https://github.com/PandaDev0069/tuiz-backend)** | Scalable Backend API for TUIZ | `TypeScript` `Express.js` `Node.js` | [Backend](https://github.com/PandaDev0069/tuiz-backend) | ⭐ 1 |
+| 🎨 **[Portfolio](https://pandadev0069.github.io/PandaDev0069/)** | Personal Showcase Website | `HTML5` `CSS3` `JavaScript` | [This Repo](https://github.com/PandaDev0069/PandaDev0069) | ⭐ 0 |
 
 </div>
 
