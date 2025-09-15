@@ -123,7 +123,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/PandaDev0069/PandaDev0069/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PandaDev0069/PandaDev0069/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
