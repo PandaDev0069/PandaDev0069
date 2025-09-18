@@ -60,7 +60,7 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=PandaDev0069&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=PandaDev0069&theme=transparent" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
