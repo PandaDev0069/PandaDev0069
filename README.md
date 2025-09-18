@@ -57,15 +57,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=PandaDev0069&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaDev0069&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -131,7 +131,7 @@
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=PandaDev0069&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=PandaDev0069&color=blueviolet&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 
