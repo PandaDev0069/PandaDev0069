@@ -60,7 +60,7 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaDev0069&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=PandaDev0069&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -121,7 +121,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/PandaDev0069/PandaDev0069/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/PandaDev0069/PandaDev0069/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
