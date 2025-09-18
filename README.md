@@ -57,15 +57,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊 My GitHub Stats" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaDev0069&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e7de79&fire=e7de79&currStreakLabel=e7de79" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=PandaDev0069&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&custom_title=🌐 Most Used Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -81,7 +81,7 @@
 <a href="https://pandadev0069.github.io/PandaDev0069/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
 </a>
-<a href="https://github.com/PandaDev0069" target="_blank">
+<a href="mailto:ashispanta100@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
@@ -121,7 +121,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/PandaDev0069/PandaDev0069/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/PandaDev0069/PandaDev0069/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -131,7 +131,7 @@
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-![Visitor Count](https://profile-counter.glitch.me/PandaDev0069/count.svg)
+![Visitor Count](https://visitcount.itsvg.in/api?id=PandaDev0069&icon=0&color=0)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 
