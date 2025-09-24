@@ -108,9 +108,9 @@
 
 | Project | Description | Tech Stack | Repository | Stars |
 |---------|-------------|------------|------------|-------|
-| 🎯 **[TUIZ](https://github.com/PandaDev0069/TUIZ)** | Interactive Quiz App (Kahoot-like) | `JavaScript` `Node.js` `Socket.io` | [Main Repo](https://github.com/PandaDev0069/TUIZ) | ⭐ 3 |
-| 🎯 **[TUIZ Frontend](https://github.com/PandaDev0069/tuiz-frontend)** | Modern Frontend for TUIZ | `TypeScript` `Next.js` `Vercel` | [Frontend](https://github.com/PandaDev0069/tuiz-frontend) | ⭐ 1 |
-| 🎯 **[TUIZ Backend](https://github.com/PandaDev0069/tuiz-backend)** | Scalable Backend API for TUIZ | `TypeScript` `Express.js` `Node.js` | [Backend](https://github.com/PandaDev0069/tuiz-backend) | ⭐ 1 |
+| 🎯 **[TUIZ](https://github.com/PandaDev0069/TUIZ)** | Interactive Quiz App | `JavaScript` `Node.js` `Socket.io` | [Old Repo](https://github.com/PandaDev0069/TUIZ) | ⭐ 3 |
+| 🎯 **[TUIZ Frontend](https://github.com/PandaDev0069/tuiz-frontend)** | Modern Frontend for TUIZ_v2 | `TypeScript` `Next.js` `Vercel` | [New_Frontend](https://github.com/PandaDev0069/tuiz-frontend) | ⭐ 1 |
+| 🎯 **[TUIZ Backend](https://github.com/PandaDev0069/tuiz-backend)** | Scalable Backend API for TUIZ_v2 | `TypeScript` `Express.js` `Node.js` | [New_Backend](https://github.com/PandaDev0069/tuiz-backend) | ⭐ 1 |
 | 🎨 **[Portfolio](https://pandadev0069.github.io/PandaDev0069/)** | Personal Showcase Website | `HTML5` `CSS3` `JavaScript` | [This Repo](https://github.com/PandaDev0069/PandaDev0069) | ⭐ 0 |
 
 </div>
