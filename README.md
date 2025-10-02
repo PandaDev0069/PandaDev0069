@@ -14,8 +14,6 @@
 
 - 🏫 University student in Japan, studying **IT, AI, and system design**
 - 🔥 Passionate about **Web Development**, **AI Projects**, and **Interactive Apps**
-- 🎯 Currently focused on building **TUIZ** - an interactive quiz platform with modern tech stack
-- 🚀 Working with **TypeScript**, **Next.js**, **Node.js**, and **Express.js**
 - 💡 Always eager to collaborate on **innovative projects**
 - 🌱 Constantly learning and growing in the tech world
 
