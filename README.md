@@ -87,33 +87,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 **Current Focus**
-
-<div align="center">
-
-🔥 **Building TUIZ** - A real-time interactive quiz platform that's like Kahoot but better!  
-🚀 **Tech Stack:** TypeScript, Next.js, Node.js, Express.js  
-⭐ **Progress:** Main repo with 3 stars, separate frontend and backend repositories  
-💡 **Goal:** Create the best quiz experience for educators and students  
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <b>🏆 Current Projects</b>
-
-<div align="center">
-
-| Project | Description | Tech Stack | Repository | Stars |
-|---------|-------------|------------|------------|-------|
-| 🎯 **[TUIZ](https://github.com/PandaDev0069/TUIZ)** | Interactive Quiz App | `JavaScript` `Node.js` `Socket.io` | [Old Repo](https://github.com/PandaDev0069/TUIZ) | ⭐ 3 |
-| 🎯 **[TUIZ Frontend](https://github.com/PandaDev0069/tuiz-frontend)** | Modern Frontend for TUIZ_v2 | `TypeScript` `Next.js` `Vercel` | [New_Frontend](https://github.com/PandaDev0069/tuiz-frontend) | ⭐ 1 |
-| 🎯 **[TUIZ Backend](https://github.com/PandaDev0069/tuiz-backend)** | Scalable Backend API for TUIZ_v2 | `TypeScript` `Express.js` `Node.js` | [New_Backend](https://github.com/PandaDev0069/tuiz-backend) | ⭐ 1 |
-| 🎨 **[Portfolio](https://pandadev0069.github.io/PandaDev0069/)** | Personal Showcase Website | `HTML5` `CSS3` `JavaScript` | [This Repo](https://github.com/PandaDev0069/PandaDev0069) | ⭐ 0 |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 **Contribution Snake**
 
