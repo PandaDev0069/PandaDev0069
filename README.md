@@ -76,7 +76,7 @@
 <a href="https://github.com/PandaDev0069" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 </a>
-<a href="https://pandadev0069.github.io/PandaDev0069/" target="_blank">
+<!-- <a href="https://pandadev0069.github.io/PandaDev0069/" target="_blank"> -->
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
 </a>
 <a href="mailto:ashispanta100@gmail.com" target="_blank">
