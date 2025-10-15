@@ -58,8 +58,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/PandaDev0069/PandaDev0069/output/github-streak-stats-dark.svg" alt="GitHub Streak" />
-       <!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaDev0069&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> -->
+       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaDev0069&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
