@@ -79,32 +79,52 @@ def calculate_streaks(contribution_calendar):
     # Sort by date to ensure chronological order
     all_days.sort(key=lambda x: x['date'])
     
-    # Calculate streaks
+    # Calculate current streak (working backwards from today or most recent contribution)
     current_streak = 0
+    today = datetime.now().date()
+    
+    # Find the most recent day in the data
+    most_recent_date = None
+    for day in reversed(all_days):
+        day_date = datetime.strptime(day['date'], '%Y-%m-%d').date()
+        if day_date <= today:
+            most_recent_date = day_date
+            break
+    
+    if most_recent_date:
+        # Check if today or yesterday had contributions (streak is still active)
+        check_date = today
+        streak_active = False
+        
+        # Allow for today and yesterday to maintain streak
+        for i in range(2):
+            target_date = today - timedelta(days=i)
+            for day in reversed(all_days):
+                day_date = datetime.strptime(day['date'], '%Y-%m-%d').date()
+                if day_date == target_date and day['contributionCount'] > 0:
+                    streak_active = True
+                    check_date = target_date
+                    break
+            if streak_active:
+                break
+        
+        if streak_active:
+            # Count backwards from the streak start
+            for day in reversed(all_days):
+                day_date = datetime.strptime(day['date'], '%Y-%m-%d').date()
+                if day_date > check_date:
+                    continue
+                if day_date < check_date - timedelta(days=current_streak):
+                    break
+                if day['contributionCount'] > 0:
+                    current_streak += 1
+                else:
+                    break
+    
+    # Calculate longest streak
     longest_streak = 0
     temp_streak = 0
     
-    today = datetime.now().date()
-    
-    # Check for current streak (working backwards from today)
-    for day in reversed(all_days):
-        day_date = datetime.strptime(day['date'], '%Y-%m-%d').date()
-        
-        # Stop if we've gone too far back
-        if day_date > today:
-            continue
-            
-        if day['contributionCount'] > 0:
-            if current_streak == 0 or (today - day_date).days <= current_streak:
-                current_streak += 1
-                today = day_date - timedelta(days=1)
-            else:
-                break
-        else:
-            if current_streak > 0:
-                break
-    
-    # Calculate longest streak
     for day in all_days:
         if day['contributionCount'] > 0:
             temp_streak += 1
