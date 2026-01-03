@@ -10,6 +10,7 @@
 
 ## **About me**
 
+
 <br>
 
 - 🏫 University student in Japan, studying **IT, AI, and system design**
