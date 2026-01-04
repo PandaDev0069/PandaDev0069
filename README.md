@@ -53,18 +53,9 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaDev0069&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDev0069&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=PandaDev0069&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=PandaDev0069&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PandaDev0069&layout=compact&theme=radical)
 
 </div>
 
