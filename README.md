@@ -2,7 +2,7 @@
 
 #  Hi there! I'm Panta Aashish
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Student+%7C+Developer;AI+Enthusiast+%26+Web+Developer;Always+Learning+Something+New!;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Student+%7C+Developer;AI+Enthusiast+%26+Web+Developer;Always+Learning+Something+New!;Building+Cool+Projects" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
