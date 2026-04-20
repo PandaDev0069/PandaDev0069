@@ -13,10 +13,10 @@
 
 <br>
 
-- 🏫 University student in Japan, studying **IT, AI, and system design**
-- 🔥 Passionate about **Web Development**, **AI Projects**, and **Interactive Apps**
-- 💡 Always eager to collaborate on **innovative projects**
-- 🌱 Constantly learning and growing in the tech world
+- University student in Japan, studying **IT, AI, and system design**
+- Passionate about **Web Development**, **AI Projects**, and **Interactive Apps**
+- Always eager to collaborate on **innovative projects**
+- Constantly learning and growing in the tech world
 
 <br>
 
@@ -80,7 +80,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🐍 **Contribution Snake**
+## **Contribution Snake**
 
 <div align="center">
 
