@@ -61,7 +61,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width ="40">**Let's Connect!**
+## **Let's Connect!**
 
 <div align="center">
 
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+###  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PandaDev0069&color=blueviolet&style=flat-square&label=Profile+Views)
 
