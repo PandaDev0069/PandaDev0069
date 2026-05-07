@@ -7,22 +7,7 @@
 
 # Panta Aashish
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2500&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=Student+%7C+Developer;AI+Enthusiast;Building+Projects;Always+Learning" />
-
----
-
-### About Me
-- IT student in Japan  
-- Interested in AI and system design  
-- Building web and interactive applications  
-- Focused on practical development  
-
----
-
-### Tech Stack
-`JavaScript` • `TypeScript` • `Python`  
-`React` • `Next.js` • `Node.js`  
-`Git` • `Linux` • `Vercel`
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2500&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=Student+%7C+Developer;Building+Projects;Always+Learning" />
 
 ---
 
